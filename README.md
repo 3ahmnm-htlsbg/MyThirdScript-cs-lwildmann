@@ -13,7 +13,7 @@ WebGL (RefRes: 1280x720 HD-720p)
 
 ## Screenshot: 
 <div>
-<img src = "./Bilder/home-pic-playmode-mythirdscript-addnumber-cs-.jpg" width = "500">
+<img src = "C:/Benutzer/User/Bilder/home-pic-playmode-mythirdscript-addnumber-cs-.jpg" width = "500">
 </div>
 
 Copyright by lwildmann
